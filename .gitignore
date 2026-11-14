@@ -1,0 +1,27 @@
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Archivos generados por PyInstaller
+build/
+dist/
+dist_onefile/
+
+# Archivos de registro
+*.log
+
+# Variables y credenciales privadas
+.env
+.env.*
+!.env.example
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
