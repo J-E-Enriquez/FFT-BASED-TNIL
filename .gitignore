@@ -25,3 +25,6 @@ dist_onefile/
 # Archivos generados por el sistema
 .DS_Store
 Thumbs.db
+
+# Configuracion local de VS Code
+.vscode/
