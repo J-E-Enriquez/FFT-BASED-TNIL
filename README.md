@@ -66,12 +66,12 @@ El archivo `.bat` automatiza el proceso de compilación mediante **PyInstaller**
 
 ### Opción 3: Descargar el ejecutable precompilado (Recomendado)
 
-Esta es la alternativa más sencilla para los usuarios que únicamente desean utilizar la aplicación.
+Esta es la alternativa más sencilla para los usuarios de Windows que únicamente desean utilizar la aplicación.
 
-1. Dirígete a la sección **Releases** de este repositorio de GitHub.
-2. Descarga la versión más reciente del ejecutable o paquete de distribución para Windows.
-3. Descomprime los archivos descargados (aquí mismo encontrarás el manual de la aplicación).
-4. Ejecuta el archivo `TNIL.exe`.
+1. Dirígete a la sección **Releases** de este repositorio de GitHub o **[haz click aquí](https://github.com/J-E-Enriquez/FFT-BASED-TNIL/releases/latest)**.
+2. Descarga la versión más reciente del ejecutable.
+3. Descomprime los archivos descargados (se incluye el manual de usuario).
+4. Ejecuta el archivo `TNIL-LAB.exe`.
 
 **No es necesario instalar Python ni sus dependencias**, ya que el ejecutable incluye el intérprete de Python y las bibliotecas necesarias para el funcionamiento de la aplicación.
 
